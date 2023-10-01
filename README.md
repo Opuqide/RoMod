@@ -9,4 +9,5 @@ Welcome to the RoMod GitHub Repository. This Repository is used for the RoMod Pr
 
 RoMod can be used on different platforms, which are Computer (Online, macOS or Windows App), Mobile (iOS or Android), iPad (iPadOS), & Watch (watchOS).
 
-# TO BE CONTINUED
+## More information will be provided soon.
+(c) RoMod 2023
